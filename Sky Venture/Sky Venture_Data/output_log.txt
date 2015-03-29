@@ -1,0 +1,73 @@
+Initialize engine version: 4.1.2f1 (911c7369eeac)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [atiumdag.dll 7.14.10.643]
+    Renderer: ATI Mobility Radeon HD 4650
+    Vendor:   ATI
+    VRAM:     1018 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=0 RAWZ=0 NULL=0 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Celldweller\Desktop\Sky Venture\Sky Venture_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Celldweller\Desktop\Sky Venture\Sky Venture_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Celldweller\Desktop\Sky Venture\Sky Venture_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Celldweller\Desktop\Sky Venture\Sky Venture_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.094 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+System memory in use before: 11.6 MB.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 7.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 140.
+Total: 2.620793 ms (FindLiveObjects: 0.031009 ms CreateObjectMapping: 0.016971 ms MarkObjects: 0.156374 ms  DeleteObjects: 0.947746 ms)
+
+System memory in use before: 22.4 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 22.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 846.
+Total: 2.231568 ms (FindLiveObjects: 0.076965 ms CreateObjectMapping: 0.025561 ms MarkObjects: 0.280273 ms  DeleteObjects: 0.357168 ms)
+
+System memory in use before: 42.7 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 32.3 MB.
+
+Unloading 86 unused Assets to reduce memory usage. Loaded Objects now: 853.
+Total: 4.276940 ms (FindLiveObjects: 0.050774 ms CreateObjectMapping: 0.029542 ms MarkObjects: 0.268050 ms  DeleteObjects: 2.453454 ms)
+
+System memory in use before: 52.5 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 32.5 MB.
+
+Unloading 76 unused Assets to reduce memory usage. Loaded Objects now: 854.
+Total: 6.094070 ms (FindLiveObjects: 0.048609 ms CreateObjectMapping: 0.029403 ms MarkObjects: 0.218603 ms  DeleteObjects: 3.942889 ms)
+
+System memory in use before: 52.6 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 38.1 MB.
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 854.
+Total: 5.457327 ms (FindLiveObjects: 0.049587 ms CreateObjectMapping: 0.037295 ms MarkObjects: 0.205123 ms  DeleteObjects: 3.674838 ms)
+
+System memory in use before: 58.0 MB.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 18.6 MB.
+
+Unloading 187 unused Assets to reduce memory usage. Loaded Objects now: 167.
+Total: 8.234147 ms (FindLiveObjects: 0.021231 ms CreateObjectMapping: 0.028215 ms MarkObjects: 0.191853 ms  DeleteObjects: 6.494191 ms)
+
+System memory in use before: 19.4 MB.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 18.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 177.
+Total: 2.748603 ms (FindLiveObjects: 0.015993 ms CreateObjectMapping: 0.028146 ms MarkObjects: 0.176209 ms  DeleteObjects: 0.995936 ms)
+
+System memory in use before: 19.2 MB.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 18.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 167.
+Total: 1.970571 ms (FindLiveObjects: 0.014247 ms CreateObjectMapping: 0.028425 ms MarkObjects: 0.185707 ms  DeleteObjects: 0.350044 ms)
+
